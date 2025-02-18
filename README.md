@@ -4,7 +4,8 @@
 - Run `npm install` from the project root.
 - Run `npm install` from `ui-app/`.
 
-To run any server use `node /path/to/server` from the project root.
+To run any server use `npm ts-node /path/to/server.ts` from the project root.
+To start the UI app use `npm start`.
 
 ## For You to Do
 
